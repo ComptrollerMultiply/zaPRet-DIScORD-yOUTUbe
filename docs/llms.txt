@@ -1,6 +1,6 @@
 # zaPRet-DIScORD-yOUTUbe
 
-zaPRet-DIScORD-yOUTUbe — сборка zapret под Discord, YouTube и Telegram сразу. Без VPN, без подписки.
+Обновлённая версия с поддержкой Discord и YouTube в текущих условиях. Стабильнее, надежнее, быстрее
 
 zaPRet-DIScORD-yOUTUbe — сборка zapret под Discord, YouTube и Telegram сразу. Без VPN, без подписки. обход блокировок без VPN, обход DPI Windows, zapret скачать, Discord и YouTube fix. Windows 10 и 11, без VPN.
 
